@@ -246,7 +246,8 @@ const PersonalPortfolio = () => {
                 <h3 className="text-base tracking-wider mb-4 font-light">Blogging Garden</h3>
                 <p className="text-sm text-white/40 mb-8 leading-relaxed">Explore my thoughts, insights, and technical articles in my personal blogging space.</p>
                 <a
-                  href="https://blog.moses.it.com"
+                  // href="https://blog.moses.it.com"
+                  href="https://mosesmmoisebidth.github.io/mosesblo/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs tracking-widest uppercase text-white/60 hover:text-white transition-colors duration-300"
@@ -262,7 +263,8 @@ const PersonalPortfolio = () => {
                 <h3 className="text-base tracking-wider mb-4 font-light">Portfolio Projects</h3>
                 <p className="text-sm text-white/40 mb-8 leading-relaxed">Discover my latest projects, applications, and creative solutions.</p>
                 <a
-                  href="https://portfolio.moses.it.com"
+                  // href="https://portfolio.moses.it.com"
+                  href="https://mosesmmoisebidth.github.io/mosespro/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs tracking-widest uppercase text-white/60 hover:text-white transition-colors duration-300"
